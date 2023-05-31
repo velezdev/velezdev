@@ -21,4 +21,4 @@ projects
 🙋🏻 I’m back to software engineering after a 3-year break and looking to transition
 to a full time role. See my Reverse Job Search at https://mariavelez.dev
 
-📫 How to reach me: hello [at] mariavelez.dev
+📫 [Email me] (mailto:hello@mariavelez.dev)
